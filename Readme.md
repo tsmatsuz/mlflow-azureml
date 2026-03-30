@@ -44,7 +44,7 @@ pip3 install numpy scikit-learn matplotlib
 - Clone this repository.
 
 ```
-git clone https://github.com/tsmatz/mlflow-azureml
+git clone https://github.com/tsmatsuz/mlflow-azureml
 ```
 
 - Start Jupyter notebook as follows.<br>
